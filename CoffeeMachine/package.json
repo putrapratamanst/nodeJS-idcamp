@@ -1,0 +1,12 @@
+{
+  "name": "coffeemachine",
+  "version": "1.0.0",
+  "description": "ini adalah projek node js pertama",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
